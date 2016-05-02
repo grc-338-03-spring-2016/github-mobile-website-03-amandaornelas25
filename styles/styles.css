@@ -1,0 +1,99 @@
+ 
+
+/* The container sets the width as a percentage of the browser window and margin 0 auto centers the page
+ Note that all measurements are in relative units*/
+	
+.container {
+    
+}
+
+body { 
+    background-image: 
+         url(images/hill.jpg) no-repeat; 100px;
+    background-color: #c9c9c9;
+               
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+    }
+
+
+/*img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}*/
+
+#header {
+    font-family: 'Dancing Script', cursive;
+    color: darkblue;
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 1.1em;
+    margin-top: 1.5em;
+    
+    }
+nav ul 
+{
+    width: 100%;
+   
+    
+}
+nav ul li
+{
+   
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.3;
+}
+nav ul li a
+{
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link {
+	color: #0c1d69;
+}
+a:visited {
+	color: #89898a;
+}
+a:focus {
+	
+	color: darkblue;
+}
+a:hover {
+	color: #c9c9c9;
+}
+a:active {
+	color: darkblue;
+}
+
+.intro {
+    font-family: Georgia, serif;
+    text-align: center;
+    color: darkblue;
+    padding-top: 1em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-right: 1.4em;
+    margin-left: 1.4em;
+    line-height: 1.4;
+}
+ /*font-family: sans-serif;  
+h1{
+    color: #eaa;
+    text-align: center;
+    background-color: #164172;
+    font-size: 1.8em;
+    padding: .1em 0 .4em 0;
+}
+*/
+
+h1 {
+    color:darkblue;
+    font-size: 3em;
+}
